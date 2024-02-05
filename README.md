@@ -1,1 +1,1 @@
-# Flash-Card-UI
+#This project is from the inspiration of the popular app "Quizlet". I'm trying to self teach myself spanish at the time, so I created a UI program that helps with just that. The program gives you three seconds to guess the spanish word in english. By clicking the "cross button" or "check button" you'll be able to tell the program if you knew the word or not. At the end of the program, all the words you failed to know will be created in it's own dataframe, where you can see what you missed. 
